@@ -3,7 +3,7 @@
 </div>  
 
 
-### <div align="center">Hey, I'm Yax, a Software Engineering student at McMaster University. I enjoy working on full-stack apps, games, and physics simulations🚀</div>  
+### <div align="center">Hey, I'm Yax, a Computer Engineering student at McMaster University. I enjoy working on full-stack apps, games, and physics simulations🚀</div>  
   
   
   <div align="center">
