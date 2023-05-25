@@ -35,4 +35,4 @@
 
 <br/>
 
-[![](https://visitcount.itsvg.in/api?id=ypatel2022&icon=0&color=6)](https://visitcount.itsvg.in)
+<a href="#"><img src="https://visitcount.itsvg.in/api?id=ypatel2022&icon=0&color=6" alt="profile-view-counter"/></a>
