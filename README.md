@@ -11,7 +11,7 @@
 
 <br/>
 
-- 🔭 I’m currently working on a hardware + software project that acts as a [Spotify media controller](https://github.com/ypatel2022/esp32-oled-spotify-controller).
+- 🔭 I’m currently working on [visualgo](https://github.com/ypatel2022/visualgo) with [Pavlos Defoort](https://github.com/PavlosDefoort).
 
 - 🌱 I’m currently learning about embedded software engineering for fun.
 
