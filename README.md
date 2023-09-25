@@ -1,4 +1,4 @@
-## <div align="">Hey, I'm Yax, a Computer Engineering student at McMaster University. I enjoy working on full-stack apps, games, and physics simulations 🚀</div>
+## Hey, I'm Yax, a Computer Engineering student at McMaster University. I enjoy working on full-stack apps, games, and physics simulations 🚀
 
 <div align="center">
 <a href="https://yaxpatel.me" target="_blank">
