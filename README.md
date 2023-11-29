@@ -1,10 +1,10 @@
 # Hi, I'm Yax 👋🏽
 
+\- Seeking summer 2024 software internships. Let's connect! Email me at pately43@mcmaster.ca
+
 \- Computer Engineering @ McMaster University
 
 \- Software Developer on the Mission Operations & Controls Team @ NEUDOSE
-
-\- Currently working on [VisuAlgo](https://github.com/ypatel2022/visualgo)
 
 \- Also currently designing a keyboard (more details soon)
 
