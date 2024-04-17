@@ -1,10 +1,12 @@
 # Hi, I'm Yax 👋🏽
 
-\- Seeking summer 2024 software internships. Let's connect! Email me at pately43@mcmaster.ca
+\- Let's connect on [LinkedIn](https://www.linkedin.com/in/yaxpatel2004/)! 
 
 \- Computer Engineering @ McMaster University
 
-\- Software Developer on the Mission Operations & Controls Team @ NEUDOSE
+\- Performance Engineering @ NVIDIA
+
+\- Software Specialist @ NEUDOSE
 
 \- Also currently designing a keyboard (more details soon)
 
