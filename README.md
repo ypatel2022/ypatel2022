@@ -1,15 +1,13 @@
 # Hi, I'm Yax 👋🏽
 
-\- Let's connect on [LinkedIn](https://www.linkedin.com/in/yaxpatel2004/)! 
-
 \- Computer Engineering @ McMaster University
 
-\- Performance Engineering @ NVIDIA
+\- Performance Engineering Intern @ NVIDIA
 
-\- Software Specialist @ NEUDOSE
+\- Currently designing a keyboard (more details soon!)
 
-\- Also currently designing a keyboard (more details soon)
+\- Currently Learning Go
 
-\- Learning embedded software devlopment
+\- Let's connect on [LinkedIn](https://www.linkedin.com/in/yaxpatel2004/)! 
 
-\- Check out my website, [yaxpatel.me](https://yaxpatel.me)
+\- Check out my website: [yaxpatel.me](https://yaxpatel.me)
