@@ -2,7 +2,7 @@
 
 \- Computer Engineering @ McMaster University
 
-\- Software Engineering Intern @ NVIDIA
+\- Systems Software Engineering Intern @ NVIDIA
 
 \- Currently designing a keyboard (more details soon!)
 
