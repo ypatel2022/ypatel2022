@@ -4,8 +4,6 @@
 
 \- Systems Software Engineering Intern @ NVIDIA
 
-\- Currently designing a keyboard (more details soon!)
-
 \- Currently Learning Go
 
 \- Let's connect on [LinkedIn](https://www.linkedin.com/in/yaxpatel2004/)! 
