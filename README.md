@@ -4,7 +4,7 @@
 
 \- Systems Software Engineering Intern @ NVIDIA
 
-\- Currently Learning Go & Rust
+\- Currently Learning Go
 
 \- Let's connect on [LinkedIn](https://www.linkedin.com/in/yaxpatel2004/)! 
 
