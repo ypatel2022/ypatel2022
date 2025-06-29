@@ -4,8 +4,6 @@
 
 \- Systems Software Engineering Intern @ NVIDIA
 
-\- Currently Learning Go
-
 \- Let's connect on [LinkedIn](https://www.linkedin.com/in/yaxpatel2004/)! 
 
 \- Check out my website: [yaxpatel.me](https://yaxpatel.me)
